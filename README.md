@@ -1,6 +1,6 @@
   # 👋 Hi There! <img src="https://cdn.discordapp.com/attachments/799245987473653770/823122060938706965/9520_Amongus_pog.png" align="right"/>
 - Hi, My Name Is PotatoHexagon ✨
-- i am creating a DISCORD BOT 🤖
+- i am creating a Discord Bot 🤖
 - I’m currently learning everything 👀
 - i didn't publish any bot yer 😂
 - thinking to make youtube videos 🤔 [ But I am very Lazy To Record Videos 😂]
