@@ -1,9 +1,8 @@
-  # 👋 Hi There! <img src="https://cdn.discordapp.com/attachments/799245987473653770/823122060938706965/9520_Amongus_pog.png" align="right"/>
+  # 👋 Welcome! <img src="https://cdn.discordapp.com/attachments/799245987473653770/823145103849160734/oof_i_tried_again.png" align="right"/>
 - Hi, My Name Is PotatoHexagon ✨
 - i am creating a Discord Bot 🤖
 - I’m currently learning everything 👀
-- i didn't publish any bot yer 😂
-- thinking to make youtube videos 🤔 [ But I am very Lazy To Record Videos 😂]
+- i didn't publish any bots yet 😂
 
 # Apps I use To Code
 - <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />[Visual Studio Code](https://visualstudio.microsoft.com)
