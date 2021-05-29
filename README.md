@@ -1,5 +1,5 @@
   #  Hey There!
-- Hi my name is potatohexagon
+- Hi my name is potatohexagon.
 - i am creating discord bots
 - i’m currently learning everything 
 - Discord : PotatoHexagon#6969
