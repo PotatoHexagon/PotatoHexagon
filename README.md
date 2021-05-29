@@ -1,7 +1,7 @@
   #  Hey There!
-- Hi, My Name Is PotatoHexagon ✨
-- i am creating a Discord Bot 🤖
-- I’m currently learning everything 👀
+- Hi my name is potatohexagon
+- i am creating discord bots
+- i’m currently learning everything 
 - Discord : PotatoHexagon#6969
 
 # Github Stats
